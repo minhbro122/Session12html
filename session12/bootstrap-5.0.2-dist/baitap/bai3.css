@@ -1,0 +1,17 @@
+.header{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    border: 10px solid gray;
+}
+ .header1 .fa-solid{
+    position: relative;
+    left: 330px;
+    bottom: 45px;
+    
+}
+input{
+    width: 320px;
+    height: 25px;
+}
