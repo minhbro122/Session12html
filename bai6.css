@@ -1,0 +1,10 @@
+.pricing-card {
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+.highlight {
+    background-color: gold;
+    border-color: gold;
+}
